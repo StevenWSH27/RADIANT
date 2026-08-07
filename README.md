@@ -17,7 +17,6 @@
 
 RADIANT treats universal multi-modal fusion as **task-conditioned information allocation**. It suppresses redundant overlap, preserves modality-unique evidence, and composes task-dependent synergy through memory-guided cross-modal interaction.
 
-> **Camera-ready release status.** The training and inference interfaces are organized for public release. The included `legacy_gifnet.model` is a compatibility baseline, not the paper's RADIANT checkpoint. Place an official trained checkpoint at `checkpoints/radiant_best.pt` before reproducing RADIANT results.
 
 ## Why RADIANT?
 
