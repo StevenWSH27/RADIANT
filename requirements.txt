@@ -1,0 +1,13 @@
+# Install a CUDA/CPU build of torch and torchvision appropriate for your
+# machine first: https://pytorch.org/get-started/locally/
+torch>=2.1
+torchvision>=0.16
+timm>=0.9
+einops>=0.7
+numpy>=1.24
+scipy>=1.10
+Pillow>=9.5
+opencv-python>=4.8
+matplotlib>=3.7
+seaborn>=0.12
+

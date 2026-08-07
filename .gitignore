@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+
+checkpoints/*.pt
+runs/*
+outputs/*
+visualization/
+tmp/
+
+!checkpoints/README.md
+!runs/.gitkeep
+!outputs/.gitkeep
+!train_data/README.md
