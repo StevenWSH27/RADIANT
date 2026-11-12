@@ -16,7 +16,7 @@
 </div>
 
 RADIANT treats universal multi-modal fusion as **task-conditioned information allocation**. It suppresses redundant overlap, preserves modality-unique evidence, and composes task-dependent synergy through memory-guided cross-modal interaction.
-
+ 
 
 ## Why RADIANT?
 
